@@ -20,7 +20,7 @@ Our advanced AI can parse multiple tasks from a single block of text, making it 
 1. **Natural Language Input**
    Simply type or paste your tasks in natural language
    
-   ![Script Input Demo](./public/script-input.png)
+   ![Script Input Demo](./frontend/public/script-input.png)
 
 2. **AI Processing**
    Our system uses Google's Gemini AI to analyze the text and identify individual tasks, assignees, due dates, and priorities.
@@ -28,7 +28,7 @@ Our advanced AI can parse multiple tasks from a single block of text, making it 
 3. **Task Preview & Edit**
    Review and edit the parsed tasks before adding them to your list.
    
-   ![Task Preview](./public/task-preview.png)
+   ![Task Preview](./frontend/public/task-preview.png)
 
 4. **One-Click Import**
    Add all selected tasks to your task list with a single click.
